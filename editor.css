@@ -1,0 +1,40 @@
+.wordcamp-block {
+    background: lightgrey;
+}
+.wordcamp-block h6 {
+    margin:5px 0;
+}
+.wordcamp-block .editor {
+    border: 1px dotted darkgray;
+    padding: 5px;
+}
+.wordcamp-block .editor button {
+    font-size: 11px;
+}
+.wordcamp-block .preview {
+    float: none;
+    text-align:center;
+}
+.wordcamp-block .preview img {
+    height: 50px;
+    width: auto;
+    border: 1px dotted black;
+}
+.wordcamp-visor {
+    padding: 40px 0 40px 0;
+    background-color: #373839;
+    text-align: center;
+    background-image: url(https://zaragoza.wordcamp.org/2023/files/2022/11/Leon-WordCamp-Zaragoza-2023.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.wordcamp-visor .name {
+    font-size: 16px;
+    color: white;
+}
+.wordcamp-visor span {
+    color: #e41b21;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0 2px;
+}
